@@ -1,0 +1,39 @@
+<svg className="relative  "
+     xmlns="http://www.w3.org/2000/svg"
+     width="340"
+     height="129"
+     viewBox="0 0 340 129"
+     fill="none">
+    <path fillRule="evenodd"
+          clipRule="evenodd"
+          d="M-5 67.9708C-5 67.9708 46.1856 66.2011 77.7755 59.4489C109.365 52.6966 123.677 35.0806 158.02 28.9745C192.364 22.8683 245.692 31.9339 275.513 26.6586C305.333 21.3832 345 1 345 1V122C345 126.971 340.971 131 336 131H5C-0.522848 131 -5 126.523 -5 121V67.9708Z"
+          fill="url(#paint0_linear_7719_133106)"
+          stroke="url(#paint1_linear_7719_133106)"
+          stroke-linecap="round"
+          stroke-linejoin="round" />
+    <defs>
+        <linearGradient id="paint0_linear_7719_133106"
+                        x1="170"
+                        y1="1"
+                        x2="170"
+                        y2="131"
+                        gradientUnits="userSpaceOnUse">
+            <stop stop-color="#ADB7F9" />
+            <stop offset="1"
+                  stop-color="#B1B9F8"
+                  stop-opacity="0" />
+        </linearGradient>
+        <linearGradient id="paint1_linear_7719_133106"
+                        x1="159.44"
+                        y1="-61.4279"
+                        x2="165.311"
+                        y2="131.143"
+                        gradientUnits="userSpaceOnUse">
+            <stop stop-color="#3074C1"
+                  stop-opacity="0.39" />
+            <stop offset="1"
+                  stop-color="#1876E2"
+                  stop-opacity="0" />
+        </linearGradient>
+    </defs>
+</svg>

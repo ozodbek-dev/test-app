@@ -1,0 +1,1 @@
+export {default as SubategoryUI} from './ui/SubategoryUI'

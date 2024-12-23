@@ -1,0 +1,1 @@
+export {default as CategoryUI} from './ui/CategoryUI'

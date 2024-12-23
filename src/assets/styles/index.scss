@@ -1,0 +1,12 @@
+@charset "UTF-8";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import "fonts";
+@import "normalize";
+@import "variables";
+@import "general";
+@import "container";
+@import "mixins";
+@import "fields-style";
+@import "blocks/blocks";
